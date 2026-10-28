@@ -64,7 +64,7 @@ class Avoider(Node):
         if self.turning:
             cmd.angular.z = 0.75 * self.turn_direction
         else:
-            cmd.linear.x = 0.13
+            cmd.linear.x = 0.50
         self.pub.publish(cmd)
 
     def stop(self):

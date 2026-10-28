@@ -20,3 +20,15 @@ __pycache__/
 # Gazebo logs
 .gazebo/
 .gz/
+# Robot model backups
+world_backup.sdf
+world_backup_before_lidar_link.sdf
+
+# Python cache
+__pycache__/
+*.pyc
+
+# ROS build files
+build/
+install/
+log/
