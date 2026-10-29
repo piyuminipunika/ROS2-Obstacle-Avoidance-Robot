@@ -1,4 +1,4 @@
-#ROS 2 Jazzy / Gazebo Harmonic / Obstacle avoiding Robot
+## ROS 2 Jazzy / Gazebo Harmonic / Obstacle avoiding Robot
 
 
 ## Files
