@@ -1,6 +1,5 @@
-# GitHub-inspired obstacle course for ROS 2 Jazzy / Gazebo Harmonic
+#ROS 2 Jazzy / Gazebo Harmonic / Obstacle avoiding Robot
 
-This is NOT an exact copy of saharshleo/obstacleAvoidanceRobot world. It is a gray-walled indoor obstacle course inspired by the reference, retaining the validated balanced robot from V1.1.
 
 ## Files
 - world.sdf: Gazebo Harmonic world, with gray floor, perimeter walls, blocks, partitions, and unchanged balanced robot
