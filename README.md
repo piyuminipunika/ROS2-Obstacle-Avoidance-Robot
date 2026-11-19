@@ -405,7 +405,7 @@ Robotics and ROS 2 Project
 ⭐ If you find this project useful, consider giving the repository a star!
 
 
-## Run (controller with classes)
+## Run (controller with classes- avoid.py)
 Terminal 1: `cd ~/my_obstacle_robot && gz sim -r world.sdf`
 Terminal 2: `ros2 run ros_gz_bridge parameter_bridge '/scan@sensor_msgs/msg/LaserScan[gz.msgs.LaserScan' '/cmd_vel@geometry_msgs/msg/Twist]gz.msgs.Twist'`
 Terminal 3: `cd ~/my_obstacle_robot && python3 avoid.py`
