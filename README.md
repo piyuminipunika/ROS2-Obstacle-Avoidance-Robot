@@ -332,6 +332,9 @@ The following video demonstrates the robot performing autonomous obstacle avoida
 
 [Watch Demonstration Video](videos/fsm_obstacle_avoidance_demo.mp4)
 
+
+
+
 The demonstration focuses on normal obstacle avoidance behavior, including:
 
 - LiDAR-based obstacle detection
